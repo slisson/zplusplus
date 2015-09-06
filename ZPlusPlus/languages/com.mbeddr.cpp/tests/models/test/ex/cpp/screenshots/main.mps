@@ -31,7 +31,6 @@
         <node role="statements" roleId="c4fa.4185783222026475862" type="c4fa.Statement" typeId="c4fa.4185783222026464515" id="7872059521589942747" nodeInfo="ng" />
         <node role="statements" roleId="c4fa.4185783222026475862" type="x27k.ReturnStatement" typeId="x27k.8967919205527146149" id="7872059521589942748" nodeInfo="ng">
           <node role="expression" roleId="x27k.8967919205527146150" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="7872059521589942749" nodeInfo="ng">
-            <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
             <property name="value" nameId="mj1l.2212975673976043696" value="0" />
           </node>
         </node>
@@ -104,7 +103,6 @@
                   </node>
                   <node role="condition" roleId="c4fa.6275792049641600984" type="mj1l.EqualsExpression" typeId="mj1l.8860443239512129322" id="5148581328587635189" nodeInfo="ng">
                     <node role="right" roleId="mj1l.8860443239512128065" type="mj1l.NumberLiteral" typeId="mj1l.8860443239512128103" id="5148581328587635192" nodeInfo="ng">
-                      <property name="unsigned" nameId="mj1l.5192961572790190887" value="false" />
                       <property name="value" nameId="mj1l.2212975673976043696" value="0" />
                     </node>
                     <node role="left" roleId="mj1l.8860443239512128064" type="x27k.ArgumentRef" typeId="x27k.2093108837558505658" id="5148581328587635186" nodeInfo="ng">
